@@ -27,6 +27,7 @@ body {
 .story {
     padding-left: 20%;
     padding-right:20%;
+    line-height: 17px;
 	max-width: 1200px;
 	margin: 50px auto 0px auto;
 }
@@ -62,6 +63,6 @@ hr {
 }
 
 a { 
-    color: black;
+    color: #e54568;
 }
 
