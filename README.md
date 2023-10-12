@@ -2,7 +2,7 @@
 
 ## Data Sources
 
-The idea for this article came from this study in JAMA Internal Medicine. I replicated a part of their data collection method by using CB Insights. 
+The idea for this article came from [this study](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2804123) in JAMA Internal Medicine. I replicated a part of their data collection method by using CB Insights. 
 
 These were my search parameters:
 
