@@ -1,4 +1,4 @@
-# Private Equity firms are buying up cancer clinics.
+# Private Equity firms are buying up oncology clinics. Is that good for U.S. healthcare?
 
 ## Data Sources
 
