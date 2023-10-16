@@ -7,12 +7,12 @@ The idea for this article came from [this study](https://jamanetwork.com/journal
 These were my search parameters:
 
 - Advanced Search, Companies Search
-  Keywords (“Oncology”)
-  Industry (“Healthcare,” “Medical Facilities & Services”)
-  Company Attributes, Keyword (“Oncology”)
-  Geography (“United States”)
-  No Financing & Exit specifications selected
-  No date range selected
+- Keywords (“Oncology”)
+- Industry (“Healthcare,” “Medical Facilities & Services”)
+- Company Attributes, Keyword (“Oncology”)
+- No Geography (“United States”)
+- No Financing & Exit specifications selected
+- No date range selected
 
 This yielded 135 oncology companies. 
 
@@ -20,6 +20,7 @@ I also scraped pestakeholder.org for their records of oncology clinic acquisitio
 
 I also referenced data from Community Oncology Alliance's (COA) impact reports on consolidation in community oncology clinics. 
 
+A more detailed methodology is available [here](https://docs.google.com/document/d/1lmARdq0kyRDx7IxmabIwB7ME5e1wS6Kp7dXlNRPV1FM/edit?usp=sharing)
 
 
 
