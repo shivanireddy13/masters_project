@@ -20,7 +20,7 @@ I also scraped pestakeholder.org for their records of oncology clinic acquisitio
 
 I also referenced data from Community Oncology Alliance's (COA) impact reports on consolidation in community oncology clinics. 
 
-A more detailed methodology is available [here](https://docs.google.com/document/d/1lmARdq0kyRDx7IxmabIwB7ME5e1wS6Kp7dXlNRPV1FM/edit?usp=sharing)
+A more detailed methodology is available [here](https://docs.google.com/document/d/1lmARdq0kyRDx7IxmabIwB7ME5e1wS6Kp7dXlNRPV1FM/edit?usp=sharing).
 
 
 
